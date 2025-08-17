@@ -10,7 +10,7 @@
 
 #rancher/fleet-agent:v1.20.2
 
-ctrox/csi-s3:v1.2.0-rc.2
-phenompeople/openjdk17
+#ctrox/csi-s3:v1.2.0-rc.2
+#phenompeople/openjdk17
 
 goharbor/prepare:v2.13.2
