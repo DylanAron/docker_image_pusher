@@ -13,4 +13,7 @@
 #ctrox/csi-s3:v1.2.0-rc.2
 #phenompeople/openjdk17
 
-goharbor/prepare:v2.13.2
+#goharbor/prepare:v2.13.2
+#rabbitmq 4安装
+rabbitmq:4-management
+
