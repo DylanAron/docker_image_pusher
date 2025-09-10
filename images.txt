@@ -15,5 +15,7 @@
 
 #goharbor/prepare:v2.13.2
 #rabbitmq 4安装
-rabbitmq:4-management
+#rabbitmq:4-management
 
+#jdk 21
+openjdk:21-jdk-slim
