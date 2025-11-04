@@ -20,5 +20,7 @@
 #jdk 21
 #rancher/shell:v0.1.24  
 
-apache/rocketmq:4.9.6
+#apache/rocketmq:4.9.6
+
+apacherocketmq/rocketmq-dashboard:latest
    
