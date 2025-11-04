@@ -21,4 +21,4 @@
 #openjdk:21-jdk-slim
    
 #rocket mq
-apache/rocketmq:5.3.2
+apache/rocketmq:4.9.6
